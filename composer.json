@@ -1,0 +1,16 @@
+{
+    "name": "qiangzi/packagetest-for-laravel",
+    "description": "packagist测试包",
+    "authors": [
+        {
+            "name": "qiangzi",
+            "email": "35924784@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Qiangzi\\Packagetest\\": "src/"
+        }
+    },
+    "require": {}
+}
