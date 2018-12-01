@@ -24,3 +24,4 @@ laravel5.6 扩展包开发 DEMO
   ```
     php artisan vendor:publish –provider=”Aex\Packagetest\PackagetestServiceProvider” 
   ```
+5、安装完成。
