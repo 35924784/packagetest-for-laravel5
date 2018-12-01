@@ -12,7 +12,7 @@ laravel5.6 扩展包开发 DEMO
   ```
     Qiangzi\Packagetest\PackagetestServiceProvider::class
   ```
-  --在配置别名，在aliases数组最下面添加：
+  --配置别名，在aliases数组最下面添加：
   ```
     Qiangzi\Packagetest\Facades\Packagetest::class
   ```
